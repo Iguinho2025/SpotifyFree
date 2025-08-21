@@ -46,3 +46,8 @@ header {
     display: flex;
     min-height: calc(100vh - 91px);
 }
+
+section{
+    width: 100%;
+    
+}
