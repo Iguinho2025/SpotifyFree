@@ -56,5 +56,6 @@ section{
 .titulo {
     font-size: 4rem;
     color: black;
+    justify-content: center;
 }
 
