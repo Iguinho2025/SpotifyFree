@@ -17,6 +17,8 @@ header {
 .nav_item {
     font-size: 25px;
     color: white;
+    cursor: pointer;
+    transition: all;
 }
 
 #logo { 
