@@ -18,7 +18,7 @@ header {
     font-size: 25px;
     color: white;
     cursor: pointer;
-    transition: all;
+    transition: all 0.3s ease
 }
 
 #logo { 
