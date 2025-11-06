@@ -30,7 +30,7 @@ header {
 
 .nav_item {
     font-size: 25px;
-    color: white;
+    color: var(--cor-primaria-1);
     cursor: pointer;
     transition: all 0.3s ease;
 
@@ -62,7 +62,7 @@ header {
 }
 
 .nav_item:hover {
-    color: black;
+    color:var(--cor-primaria-5);
     text-decoration: underline;
 }
 
