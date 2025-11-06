@@ -82,7 +82,7 @@ section {
 
 .titulo {
     font-size: 4rem;
-    color: black;
+    color: var(--cor-secundaria-2);
     text-align: center;
     width: 100%;
 }
