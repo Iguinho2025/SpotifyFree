@@ -62,6 +62,7 @@ header {
 }
 
 .nav_item:hover {
+    background-color: var(--cor-primaria-3);
     color:var(--cor-primaria-5);
     text-decoration: underline;
 }
