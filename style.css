@@ -93,7 +93,7 @@ section {
 }
 
 .titulocor {
-    color:var(--cor-primaria-5);
+    color:var(--cor-secundaria-2)
 }
 
 .secao {
@@ -111,12 +111,12 @@ section {
 }
 
 .moldura_videos {
+    width: 100%f;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 0;
-    padding: 0;
+    gap: 32px;
     list-style: none;
+    padding: 0;
 
 }
 
