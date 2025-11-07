@@ -111,7 +111,7 @@ section {
 }
 
 .moldura_videos {
-    width: 100%f;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     gap: 32px;
