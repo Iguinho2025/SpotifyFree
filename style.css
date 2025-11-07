@@ -61,6 +61,11 @@ header {
     text-transform: uppercase;
 }
 
+a {
+    text-decoration: none;
+}
+
+
 .nav_item:hover {
     background-color: var(--cor-primaria-3);
     color:var(--cor-primaria-5);
@@ -88,14 +93,13 @@ section {
 }
 
 .titulocor {
-    color: aqua;
+    color:var(--cor-primaria-5);
 }
 
 .secao {
-    padding-right: 8%;
-    padding-top: 2%;
-    margin-top: 20px;
-
+   flex-direction: column;
+   align-items: center;
+   gap: 40px;
 }
 
 .titulo.section {
